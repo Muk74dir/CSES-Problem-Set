@@ -25,7 +25,6 @@ int main()
     }
 
 
-
     cout<<fact(dis.size())<<endl;
 
     return 0;
